@@ -1,2 +1,2 @@
 # imouto-cursor-theme
-Just a mirror imouto xcursor from yok0ri
+Just a mirror Imouto xcursor from [yok0ri](https://www.opencode.net/yok0ri/imouto_cursors)
