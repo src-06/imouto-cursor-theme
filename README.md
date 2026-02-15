@@ -7,8 +7,15 @@ Only the 64×64 version is original — the other sizes were created by scaling 
 
 ## Installation
 
-1. Copy this folder to ~/.local/share/icons
-2. Select "Imouto" in your desktop environment's cursor settings
+### Manual
+1. Download/clone and extract this repository
+2. Copy this folder to ~/.local/share/icons
+3. Select "Imouto" in your desktop environment's cursor settings
+
+### Arch
+```
+yay -S imouto-cursor-theme
+```
 
 ## Sizes Included
 
