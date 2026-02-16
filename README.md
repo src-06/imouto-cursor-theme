@@ -12,7 +12,7 @@ Only the 64×64 version is original — the other sizes were created by scaling 
 2. Copy this folder to ~/.local/share/icons
 3. Select "Imouto" in your desktop environment's cursor settings
 
-### Arch
+### Arch (AUR Helper)
 ```
 yay -S imouto-cursor-theme
 ```
